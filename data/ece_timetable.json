@@ -1,0 +1,161 @@
+{
+  "department": "Electronics and Communication Engineering",
+  "academic_year": "2025-2026",
+  "semester": "Odd Semester",
+  "college": "Sri Venkateswara College of Engineering",
+  "sections": {
+    "ECE-A": {
+      "class_incharge": "Dr. Anjali Menon",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Signals and Systems", "teacher": "Dr. Anjali Menon", "room": "EC-101"},
+          "2": {"subject": "Digital Electronics", "teacher": "Mr. Kiran Babu", "room": "EC-101"},
+          "3": {"subject": "FREE", "teacher": "-", "room": "-"},
+          "4": {"subject": "Electromagnetic Theory", "teacher": "Dr. Sanjay Pillai", "room": "EC-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Digital Lab", "teacher": "Mr. Kiran Babu", "room": "EC-Lab"},
+          "7": {"subject": "Digital Lab", "teacher": "Mr. Kiran Babu", "room": "EC-Lab"}
+        },
+        "Tuesday": {
+          "1": {"subject": "Electromagnetic Theory", "teacher": "Dr. Sanjay Pillai", "room": "EC-101"},
+          "2": {"subject": "Signals and Systems", "teacher": "Dr. Anjali Menon", "room": "EC-101"},
+          "3": {"subject": "Digital Electronics", "teacher": "Mr. Kiran Babu", "room": "EC-101"},
+          "4": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EC-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Microprocessors", "teacher": "Ms. Divya Rao", "room": "EC-101"},
+          "7": {"subject": "Communication Systems", "teacher": "Dr. Anjali Menon", "room": "EC-101"}
+        },
+        "Wednesday": {
+          "1": {"subject": "Digital Electronics", "teacher": "Mr. Kiran Babu", "room": "EC-101"},
+          "2": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EC-101"},
+          "3": {"subject": "Signals and Systems", "teacher": "Dr. Anjali Menon", "room": "EC-101"},
+          "4": {"subject": "Microprocessors", "teacher": "Ms. Divya Rao", "room": "EC-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Signals Lab", "teacher": "Dr. Anjali Menon", "room": "EC-Lab"},
+          "7": {"subject": "Signals Lab", "teacher": "Dr. Anjali Menon", "room": "EC-Lab"}
+        },
+        "Thursday": {
+          "1": {"subject": "Communication Systems", "teacher": "Dr. Anjali Menon", "room": "EC-101"},
+          "2": {"subject": "Electromagnetic Theory", "teacher": "Dr. Sanjay Pillai", "room": "EC-101"},
+          "3": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EC-101"},
+          "4": {"subject": "Digital Electronics", "teacher": "Mr. Kiran Babu", "room": "EC-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Micro Lab", "teacher": "Ms. Divya Rao", "room": "Micro-Lab"},
+          "7": {"subject": "Micro Lab", "teacher": "Ms. Divya Rao", "room": "Micro-Lab"}
+        },
+        "Friday": {
+          "1": {"subject": "Microprocessors", "teacher": "Ms. Divya Rao", "room": "EC-101"},
+          "2": {"subject": "Communication Systems", "teacher": "Dr. Anjali Menon", "room": "EC-101"},
+          "3": {"subject": "Electromagnetic Theory", "teacher": "Dr. Sanjay Pillai", "room": "EC-101"},
+          "4": {"subject": "Signals and Systems", "teacher": "Dr. Anjali Menon", "room": "EC-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Dr. Anjali Menon", "room": "EC-101"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    },
+    "ECE-B": {
+      "class_incharge": "Mr. Kiran Babu",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Digital Electronics", "teacher": "Mr. Kiran Babu", "room": "EC-102"},
+          "2": {"subject": "Signals and Systems", "teacher": "Dr. Anjali Menon", "room": "EC-102"},
+          "3": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EC-102"},
+          "4": {"subject": "Communication Systems", "teacher": "Dr. Anjali Menon", "room": "EC-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Micro Lab", "teacher": "Ms. Divya Rao", "room": "Micro-Lab"},
+          "7": {"subject": "Micro Lab", "teacher": "Ms. Divya Rao", "room": "Micro-Lab"}
+        },
+        "Tuesday": {
+          "1": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EC-102"},
+          "2": {"subject": "Electromagnetic Theory", "teacher": "Dr. Sanjay Pillai", "room": "EC-102"},
+          "3": {"subject": "FREE", "teacher": "-", "room": "-"},
+          "4": {"subject": "Signals and Systems", "teacher": "Dr. Anjali Menon", "room": "EC-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Digital Lab", "teacher": "Mr. Kiran Babu", "room": "EC-Lab"},
+          "7": {"subject": "Digital Lab", "teacher": "Mr. Kiran Babu", "room": "EC-Lab"}
+        },
+        "Wednesday": {
+          "1": {"subject": "Communication Systems", "teacher": "Dr. Anjali Menon", "room": "EC-102"},
+          "2": {"subject": "Microprocessors", "teacher": "Ms. Divya Rao", "room": "EC-102"},
+          "3": {"subject": "Digital Electronics", "teacher": "Mr. Kiran Babu", "room": "EC-102"},
+          "4": {"subject": "Electromagnetic Theory", "teacher": "Dr. Sanjay Pillai", "room": "EC-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Signals Lab", "teacher": "Dr. Anjali Menon", "room": "EC-Lab"},
+          "7": {"subject": "Signals Lab", "teacher": "Dr. Anjali Menon", "room": "EC-Lab"}
+        },
+        "Thursday": {
+          "1": {"subject": "Microprocessors", "teacher": "Ms. Divya Rao", "room": "EC-102"},
+          "2": {"subject": "Digital Electronics", "teacher": "Mr. Kiran Babu", "room": "EC-102"},
+          "3": {"subject": "Communication Systems", "teacher": "Dr. Anjali Menon", "room": "EC-102"},
+          "4": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EC-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Micro Lab", "teacher": "Ms. Divya Rao", "room": "Micro-Lab"},
+          "7": {"subject": "Micro Lab", "teacher": "Ms. Divya Rao", "room": "Micro-Lab"}
+        },
+        "Friday": {
+          "1": {"subject": "Signals and Systems", "teacher": "Dr. Anjali Menon", "room": "EC-102"},
+          "2": {"subject": "Communication Systems", "teacher": "Dr. Anjali Menon", "room": "EC-102"},
+          "3": {"subject": "Electromagnetic Theory", "teacher": "Dr. Sanjay Pillai", "room": "EC-102"},
+          "4": {"subject": "Microprocessors", "teacher": "Ms. Divya Rao", "room": "EC-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Mr. Kiran Babu", "room": "EC-102"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    },
+    "ECE-C": {
+      "class_incharge": "Dr. Sanjay Pillai",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Electromagnetic Theory", "teacher": "Dr. Sanjay Pillai", "room": "EC-103"},
+          "2": {"subject": "Communication Systems", "teacher": "Dr. Anjali Menon", "room": "EC-103"},
+          "3": {"subject": "Digital Electronics", "teacher": "Mr. Kiran Babu", "room": "EC-103"},
+          "4": {"subject": "Microprocessors", "teacher": "Ms. Divya Rao", "room": "EC-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Signals Lab", "teacher": "Dr. Anjali Menon", "room": "EC-Lab"},
+          "7": {"subject": "Signals Lab", "teacher": "Dr. Anjali Menon", "room": "EC-Lab"}
+        },
+        "Tuesday": {
+          "1": {"subject": "Signals and Systems", "teacher": "Dr. Anjali Menon", "room": "EC-103"},
+          "2": {"subject": "Microprocessors", "teacher": "Ms. Divya Rao", "room": "EC-103"},
+          "3": {"subject": "Electromagnetic Theory", "teacher": "Dr. Sanjay Pillai", "room": "EC-103"},
+          "4": {"subject": "Digital Electronics", "teacher": "Mr. Kiran Babu", "room": "EC-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EC-103"},
+          "7": {"subject": "Signals and Systems", "teacher": "Dr. Anjali Menon", "room": "EC-103"}
+        },
+        "Wednesday": {
+          "1": {"subject": "Microprocessors", "teacher": "Ms. Divya Rao", "room": "EC-103"},
+          "2": {"subject": "Signals and Systems", "teacher": "Dr. Anjali Menon", "room": "EC-103"},
+          "3": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EC-103"},
+          "4": {"subject": "Communication Systems", "teacher": "Dr. Anjali Menon", "room": "EC-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Digital Lab", "teacher": "Mr. Kiran Babu", "room": "EC-Lab"},
+          "7": {"subject": "Digital Lab", "teacher": "Mr. Kiran Babu", "room": "EC-Lab"}
+        },
+        "Thursday": {
+          "1": {"subject": "Digital Electronics", "teacher": "Mr. Kiran Babu", "room": "EC-103"},
+          "2": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EC-103"},
+          "3": {"subject": "Signals and Systems", "teacher": "Dr. Anjali Menon", "room": "EC-103"},
+          "4": {"subject": "Electromagnetic Theory", "teacher": "Dr. Sanjay Pillai", "room": "EC-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Micro Lab", "teacher": "Ms. Divya Rao", "room": "Micro-Lab"},
+          "7": {"subject": "Micro Lab", "teacher": "Ms. Divya Rao", "room": "Micro-Lab"}
+        },
+        "Friday": {
+          "1": {"subject": "Communication Systems", "teacher": "Dr. Anjali Menon", "room": "EC-103"},
+          "2": {"subject": "Electromagnetic Theory", "teacher": "Dr. Sanjay Pillai", "room": "EC-103"},
+          "3": {"subject": "Microprocessors", "teacher": "Ms. Divya Rao", "room": "EC-103"},
+          "4": {"subject": "Digital Electronics", "teacher": "Mr. Kiran Babu", "room": "EC-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Dr. Sanjay Pillai", "room": "EC-103"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    }
+  }
+}

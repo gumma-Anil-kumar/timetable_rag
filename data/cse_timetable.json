@@ -1,0 +1,161 @@
+ {
+  "department": "Computer Science and Engineering",
+  "academic_year": "2025-2026",
+  "semester": "Odd Semester",
+  "college": "Sri Venkateswara College of Engineering",
+  "sections": {
+    "CSE-A": {
+      "class_incharge": "Dr. Priya Sharma",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Data Structures", "teacher": "Dr. Priya Sharma", "room": "CS-101"},
+          "2": {"subject": "Data Structures", "teacher": "Dr. Priya Sharma", "room": "CS-101"},
+          "3": {"subject": "Computer Networks", "teacher": "Mr. Arjun Reddy", "room": "CS-101"},
+          "4": {"subject": "Operating Systems", "teacher": "Dr. Meena Krishnan", "room": "CS-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "DBMS Lab", "teacher": "Ms. Kavitha Nair", "room": "DB-Lab"},
+          "7": {"subject": "DBMS Lab", "teacher": "Ms. Kavitha Nair", "room": "DB-Lab"}
+        },
+        "Tuesday": {
+          "1": {"subject": "Operating Systems", "teacher": "Dr. Meena Krishnan", "room": "CS-101"},
+          "2": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-101"},
+          "3": {"subject": "Data Structures", "teacher": "Dr. Priya Sharma", "room": "CS-101"},
+          "4": {"subject": "Computer Networks", "teacher": "Mr. Arjun Reddy", "room": "CS-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Software Engineering", "teacher": "Dr. Ravi Kumar", "room": "CS-101"},
+          "7": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-101"}
+        },
+        "Wednesday": {
+          "1": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-101"},
+          "2": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-101"},
+          "3": {"subject": "Operating Systems", "teacher": "Dr. Meena Krishnan", "room": "CS-101"},
+          "4": {"subject": "Software Engineering", "teacher": "Dr. Ravi Kumar", "room": "CS-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Networks Lab", "teacher": "Mr. Arjun Reddy", "room": "NW-Lab"},
+          "7": {"subject": "Networks Lab", "teacher": "Mr. Arjun Reddy", "room": "NW-Lab"}
+        },
+        "Thursday": {
+          "1": {"subject": "Computer Networks", "teacher": "Mr. Arjun Reddy", "room": "CS-101"},
+          "2": {"subject": "Software Engineering", "teacher": "Dr. Ravi Kumar", "room": "CS-101"},
+          "3": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-101"},
+          "4": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "DS Lab", "teacher": "Dr. Priya Sharma", "room": "CS-Lab"},
+          "7": {"subject": "DS Lab", "teacher": "Dr. Priya Sharma", "room": "CS-Lab"}
+        },
+        "Friday": {
+          "1": {"subject": "Software Engineering", "teacher": "Dr. Ravi Kumar", "room": "CS-101"},
+          "2": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-101"},
+          "3": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-101"},
+          "4": {"subject": "Operating Systems", "teacher": "Dr. Meena Krishnan", "room": "CS-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Dr. Priya Sharma", "room": "CS-101"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    },
+    "CSE-B": {
+      "class_incharge": "Mr. Arjun Reddy",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Computer Networks", "teacher": "Mr. Arjun Reddy", "room": "CS-102"},
+          "2": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-102"},
+          "3": {"subject": "FREE", "teacher": "-", "room": "-"},
+          "4": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "OS Lab", "teacher": "Dr. Meena Krishnan", "room": "OS-Lab"},
+          "7": {"subject": "OS Lab", "teacher": "Dr. Meena Krishnan", "room": "OS-Lab"}
+        },
+        "Tuesday": {
+          "1": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-102"},
+          "2": {"subject": "Operating Systems", "teacher": "Dr. Meena Krishnan", "room": "CS-102"},
+          "3": {"subject": "Software Engineering", "teacher": "Dr. Ravi Kumar", "room": "CS-102"},
+          "4": {"subject": "Data Structures", "teacher": "Dr. Priya Sharma", "room": "CS-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-102"},
+          "7": {"subject": "Computer Networks", "teacher": "Mr. Arjun Reddy", "room": "CS-102"}
+        },
+        "Wednesday": {
+          "1": {"subject": "Data Structures", "teacher": "Dr. Priya Sharma", "room": "CS-102"},
+          "2": {"subject": "Software Engineering", "teacher": "Dr. Ravi Kumar", "room": "CS-102"},
+          "3": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-102"},
+          "4": {"subject": "Computer Networks", "teacher": "Mr. Arjun Reddy", "room": "CS-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "DS Lab", "teacher": "Dr. Priya Sharma", "room": "CS-Lab"},
+          "7": {"subject": "DS Lab", "teacher": "Dr. Priya Sharma", "room": "CS-Lab"}
+        },
+        "Thursday": {
+          "1": {"subject": "Operating Systems", "teacher": "Dr. Meena Krishnan", "room": "CS-102"},
+          "2": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-102"},
+          "3": {"subject": "Data Structures", "teacher": "Dr. Priya Sharma", "room": "CS-102"},
+          "4": {"subject": "Software Engineering", "teacher": "Dr. Ravi Kumar", "room": "CS-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Networks Lab", "teacher": "Mr. Arjun Reddy", "room": "NW-Lab"},
+          "7": {"subject": "Networks Lab", "teacher": "Mr. Arjun Reddy", "room": "NW-Lab"}
+        },
+        "Friday": {
+          "1": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-102"},
+          "2": {"subject": "Data Structures", "teacher": "Dr. Priya Sharma", "room": "CS-102"},
+          "3": {"subject": "Operating Systems", "teacher": "Dr. Meena Krishnan", "room": "CS-102"},
+          "4": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Mr. Arjun Reddy", "room": "CS-102"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    },
+    "CSE-C": {
+      "class_incharge": "Dr. Meena Krishnan",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Operating Systems", "teacher": "Dr. Meena Krishnan", "room": "CS-103"},
+          "2": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-103"},
+          "3": {"subject": "Software Engineering", "teacher": "Dr. Ravi Kumar", "room": "CS-103"},
+          "4": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "DS Lab", "teacher": "Dr. Priya Sharma", "room": "CS-Lab"},
+          "7": {"subject": "DS Lab", "teacher": "Dr. Priya Sharma", "room": "CS-Lab"}
+        },
+        "Tuesday": {
+          "1": {"subject": "Software Engineering", "teacher": "Dr. Ravi Kumar", "room": "CS-103"},
+          "2": {"subject": "Computer Networks", "teacher": "Mr. Arjun Reddy", "room": "CS-103"},
+          "3": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-103"},
+          "4": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Operating Systems", "teacher": "Dr. Meena Krishnan", "room": "CS-103"},
+          "7": {"subject": "Data Structures", "teacher": "Dr. Priya Sharma", "room": "CS-103"}
+        },
+        "Wednesday": {
+          "1": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-103"},
+          "2": {"subject": "Operating Systems", "teacher": "Dr. Meena Krishnan", "room": "CS-103"},
+          "3": {"subject": "Computer Networks", "teacher": "Mr. Arjun Reddy", "room": "CS-103"},
+          "4": {"subject": "Data Structures", "teacher": "Dr. Priya Sharma", "room": "CS-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "DBMS Lab", "teacher": "Ms. Kavitha Nair", "room": "DB-Lab"},
+          "7": {"subject": "DBMS Lab", "teacher": "Ms. Kavitha Nair", "room": "DB-Lab"}
+        },
+        "Thursday": {
+          "1": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-103"},
+          "2": {"subject": "Data Structures", "teacher": "Dr. Priya Sharma", "room": "CS-103"},
+          "3": {"subject": "DBMS", "teacher": "Ms. Kavitha Nair", "room": "CS-103"},
+          "4": {"subject": "Computer Networks", "teacher": "Mr. Arjun Reddy", "room": "CS-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "OS Lab", "teacher": "Dr. Meena Krishnan", "room": "OS-Lab"},
+          "7": {"subject": "OS Lab", "teacher": "Dr. Meena Krishnan", "room": "OS-Lab"}
+        },
+        "Friday": {
+          "1": {"subject": "Computer Networks", "teacher": "Mr. Arjun Reddy", "room": "CS-103"},
+          "2": {"subject": "Software Engineering", "teacher": "Dr. Ravi Kumar", "room": "CS-103"},
+          "3": {"subject": "Data Structures", "teacher": "Dr. Priya Sharma", "room": "CS-103"},
+          "4": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "CS-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Dr. Meena Krishnan", "room": "CS-103"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    }
+  }
+}

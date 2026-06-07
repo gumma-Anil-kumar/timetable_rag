@@ -1,0 +1,161 @@
+{
+  "department": "Mechanical Engineering",
+  "academic_year": "2025-2026",
+  "semester": "Odd Semester",
+  "college": "Sri Venkateswara College of Engineering",
+  "sections": {
+    "MECH-A": {
+      "class_incharge": "Dr. Subramaniam Iyer",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Thermodynamics", "teacher": "Dr. Subramaniam Iyer", "room": "ME-101"},
+          "2": {"subject": "Fluid Mechanics", "teacher": "Mr. Prakash Sharma", "room": "ME-101"},
+          "3": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-101"},
+          "4": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Workshop Lab", "teacher": "Mr. Rajesh Kumar", "room": "Workshop"},
+          "7": {"subject": "Workshop Lab", "teacher": "Mr. Rajesh Kumar", "room": "Workshop"}
+        },
+        "Tuesday": {
+          "1": {"subject": "Fluid Mechanics", "teacher": "Mr. Prakash Sharma", "room": "ME-101"},
+          "2": {"subject": "Thermodynamics", "teacher": "Dr. Subramaniam Iyer", "room": "ME-101"},
+          "3": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-101"},
+          "4": {"subject": "Manufacturing Processes", "teacher": "Mr. Rajesh Kumar", "room": "ME-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Fluid Mechanics Lab", "teacher": "Mr. Prakash Sharma", "room": "ME-Lab"},
+          "7": {"subject": "Fluid Mechanics Lab", "teacher": "Mr. Prakash Sharma", "room": "ME-Lab"}
+        },
+        "Wednesday": {
+          "1": {"subject": "Manufacturing Processes", "teacher": "Mr. Rajesh Kumar", "room": "ME-101"},
+          "2": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-101"},
+          "3": {"subject": "FREE", "teacher": "-", "room": "-"},
+          "4": {"subject": "Thermodynamics", "teacher": "Dr. Subramaniam Iyer", "room": "ME-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Thermodynamics Lab", "teacher": "Dr. Subramaniam Iyer", "room": "ME-Lab"},
+          "7": {"subject": "Thermodynamics Lab", "teacher": "Dr. Subramaniam Iyer", "room": "ME-Lab"}
+        },
+        "Thursday": {
+          "1": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-101"},
+          "2": {"subject": "Manufacturing Processes", "teacher": "Mr. Rajesh Kumar", "room": "ME-101"},
+          "3": {"subject": "Fluid Mechanics", "teacher": "Mr. Prakash Sharma", "room": "ME-101"},
+          "4": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "CAD Lab", "teacher": "Ms. Ananya Krishnan", "room": "CAD-Lab"},
+          "7": {"subject": "CAD Lab", "teacher": "Ms. Ananya Krishnan", "room": "CAD-Lab"}
+        },
+        "Friday": {
+          "1": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-101"},
+          "2": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-101"},
+          "3": {"subject": "Thermodynamics", "teacher": "Dr. Subramaniam Iyer", "room": "ME-101"},
+          "4": {"subject": "Manufacturing Processes", "teacher": "Mr. Rajesh Kumar", "room": "ME-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Dr. Subramaniam Iyer", "room": "ME-101"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    },
+    "MECH-B": {
+      "class_incharge": "Mr. Prakash Sharma",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Fluid Mechanics", "teacher": "Mr. Prakash Sharma", "room": "ME-102"},
+          "2": {"subject": "Manufacturing Processes", "teacher": "Mr. Rajesh Kumar", "room": "ME-102"},
+          "3": {"subject": "Thermodynamics", "teacher": "Dr. Subramaniam Iyer", "room": "ME-102"},
+          "4": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Fluid Mechanics Lab", "teacher": "Mr. Prakash Sharma", "room": "ME-Lab"},
+          "7": {"subject": "Fluid Mechanics Lab", "teacher": "Mr. Prakash Sharma", "room": "ME-Lab"}
+        },
+        "Tuesday": {
+          "1": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-102"},
+          "2": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-102"},
+          "3": {"subject": "Manufacturing Processes", "teacher": "Mr. Rajesh Kumar", "room": "ME-102"},
+          "4": {"subject": "Fluid Mechanics", "teacher": "Mr. Prakash Sharma", "room": "ME-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "CAD Lab", "teacher": "Ms. Ananya Krishnan", "room": "CAD-Lab"},
+          "7": {"subject": "CAD Lab", "teacher": "Ms. Ananya Krishnan", "room": "CAD-Lab"}
+        },
+        "Wednesday": {
+          "1": {"subject": "Thermodynamics", "teacher": "Dr. Subramaniam Iyer", "room": "ME-102"},
+          "2": {"subject": "Fluid Mechanics", "teacher": "Mr. Prakash Sharma", "room": "ME-102"},
+          "3": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-102"},
+          "4": {"subject": "Manufacturing Processes", "teacher": "Mr. Rajesh Kumar", "room": "ME-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Workshop Lab", "teacher": "Mr. Rajesh Kumar", "room": "Workshop"},
+          "7": {"subject": "Workshop Lab", "teacher": "Mr. Rajesh Kumar", "room": "Workshop"}
+        },
+        "Thursday": {
+          "1": {"subject": "Manufacturing Processes", "teacher": "Mr. Rajesh Kumar", "room": "ME-102"},
+          "2": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-102"},
+          "3": {"subject": "FREE", "teacher": "-", "room": "-"},
+          "4": {"subject": "Thermodynamics", "teacher": "Dr. Subramaniam Iyer", "room": "ME-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Thermodynamics Lab", "teacher": "Dr. Subramaniam Iyer", "room": "ME-Lab"},
+          "7": {"subject": "Thermodynamics Lab", "teacher": "Dr. Subramaniam Iyer", "room": "ME-Lab"}
+        },
+        "Friday": {
+          "1": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-102"},
+          "2": {"subject": "Thermodynamics", "teacher": "Dr. Subramaniam Iyer", "room": "ME-102"},
+          "3": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-102"},
+          "4": {"subject": "Fluid Mechanics", "teacher": "Mr. Prakash Sharma", "room": "ME-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Mr. Prakash Sharma", "room": "ME-102"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    },
+    "MECH-C": {
+      "class_incharge": "Mr. Rajesh Kumar",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Manufacturing Processes", "teacher": "Mr. Rajesh Kumar", "room": "ME-103"},
+          "2": {"subject": "Thermodynamics", "teacher": "Dr. Subramaniam Iyer", "room": "ME-103"},
+          "3": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-103"},
+          "4": {"subject": "Fluid Mechanics", "teacher": "Mr. Prakash Sharma", "room": "ME-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "CAD Lab", "teacher": "Ms. Ananya Krishnan", "room": "CAD-Lab"},
+          "7": {"subject": "CAD Lab", "teacher": "Ms. Ananya Krishnan", "room": "CAD-Lab"}
+        },
+        "Tuesday": {
+          "1": {"subject": "Thermodynamics", "teacher": "Dr. Subramaniam Iyer", "room": "ME-103"},
+          "2": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-103"},
+          "3": {"subject": "Fluid Mechanics", "teacher": "Mr. Prakash Sharma", "room": "ME-103"},
+          "4": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Thermodynamics Lab", "teacher": "Dr. Subramaniam Iyer", "room": "ME-Lab"},
+          "7": {"subject": "Thermodynamics Lab", "teacher": "Dr. Subramaniam Iyer", "room": "ME-Lab"}
+        },
+        "Wednesday": {
+          "1": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-103"},
+          "2": {"subject": "Manufacturing Processes", "teacher": "Mr. Rajesh Kumar", "room": "ME-103"},
+          "3": {"subject": "Thermodynamics", "teacher": "Dr. Subramaniam Iyer", "room": "ME-103"},
+          "4": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Fluid Mechanics Lab", "teacher": "Mr. Prakash Sharma", "room": "ME-Lab"},
+          "7": {"subject": "Fluid Mechanics Lab", "teacher": "Mr. Prakash Sharma", "room": "ME-Lab"}
+        },
+        "Thursday": {
+          "1": {"subject": "Fluid Mechanics", "teacher": "Mr. Prakash Sharma", "room": "ME-103"},
+          "2": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-103"},
+          "3": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-103"},
+          "4": {"subject": "Manufacturing Processes", "teacher": "Mr. Rajesh Kumar", "room": "ME-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Workshop Lab", "teacher": "Mr. Rajesh Kumar", "room": "Workshop"},
+          "7": {"subject": "Workshop Lab", "teacher": "Mr. Rajesh Kumar", "room": "Workshop"}
+        },
+        "Friday": {
+          "1": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "ME-103"},
+          "2": {"subject": "Fluid Mechanics", "teacher": "Mr. Prakash Sharma", "room": "ME-103"},
+          "3": {"subject": "FREE", "teacher": "-", "room": "-"},
+          "4": {"subject": "Engineering Drawing", "teacher": "Ms. Ananya Krishnan", "room": "ME-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Mr. Rajesh Kumar", "room": "ME-103"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    }
+  }
+}

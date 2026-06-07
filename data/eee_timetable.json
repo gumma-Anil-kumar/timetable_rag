@@ -1,0 +1,161 @@
+{
+  "department": "Electrical and Electronics Engineering",
+  "academic_year": "2025-2026",
+  "semester": "Odd Semester",
+  "college": "Sri Venkateswara College of Engineering",
+  "sections": {
+    "EEE-A": {
+      "class_incharge": "Dr. Ramesh Naidu",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-101"},
+          "2": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-101"},
+          "3": {"subject": "FREE", "teacher": "-", "room": "-"},
+          "4": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EE-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Electrical Machines Lab", "teacher": "Dr. Ramesh Naidu", "room": "EE-Lab"},
+          "7": {"subject": "Electrical Machines Lab", "teacher": "Dr. Ramesh Naidu", "room": "EE-Lab"}
+        },
+        "Tuesday": {
+          "1": {"subject": "Electrical Machines", "teacher": "Mr. Venkat Rao", "room": "EE-101"},
+          "2": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-101"},
+          "3": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EE-101"},
+          "4": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Power Electronics", "teacher": "Dr. Ramesh Naidu", "room": "EE-101"},
+          "7": {"subject": "Measurement and Instrumentation", "teacher": "Mr. Venkat Rao", "room": "EE-101"}
+        },
+        "Wednesday": {
+          "1": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-101"},
+          "2": {"subject": "Electrical Machines", "teacher": "Mr. Venkat Rao", "room": "EE-101"},
+          "3": {"subject": "Power Electronics", "teacher": "Dr. Ramesh Naidu", "room": "EE-101"},
+          "4": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Control Lab", "teacher": "Ms. Lakshmi Prasad", "room": "EE-Lab"},
+          "7": {"subject": "Control Lab", "teacher": "Ms. Lakshmi Prasad", "room": "EE-Lab"}
+        },
+        "Thursday": {
+          "1": {"subject": "Measurement and Instrumentation", "teacher": "Mr. Venkat Rao", "room": "EE-101"},
+          "2": {"subject": "Power Electronics", "teacher": "Dr. Ramesh Naidu", "room": "EE-101"},
+          "3": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-101"},
+          "4": {"subject": "Electrical Machines", "teacher": "Mr. Venkat Rao", "room": "EE-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Power Electronics Lab", "teacher": "Dr. Ramesh Naidu", "room": "EE-Lab"},
+          "7": {"subject": "Power Electronics Lab", "teacher": "Dr. Ramesh Naidu", "room": "EE-Lab"}
+        },
+        "Friday": {
+          "1": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EE-101"},
+          "2": {"subject": "Measurement and Instrumentation", "teacher": "Mr. Venkat Rao", "room": "EE-101"},
+          "3": {"subject": "Electrical Machines", "teacher": "Mr. Venkat Rao", "room": "EE-101"},
+          "4": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-101"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Dr. Ramesh Naidu", "room": "EE-101"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    },
+    "EEE-B": {
+      "class_incharge": "Ms. Lakshmi Prasad",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-102"},
+          "2": {"subject": "Power Electronics", "teacher": "Dr. Ramesh Naidu", "room": "EE-102"},
+          "3": {"subject": "Electrical Machines", "teacher": "Mr. Venkat Rao", "room": "EE-102"},
+          "4": {"subject": "Measurement and Instrumentation", "teacher": "Mr. Venkat Rao", "room": "EE-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Control Lab", "teacher": "Ms. Lakshmi Prasad", "room": "EE-Lab"},
+          "7": {"subject": "Control Lab", "teacher": "Ms. Lakshmi Prasad", "room": "EE-Lab"}
+        },
+        "Tuesday": {
+          "1": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-102"},
+          "2": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EE-102"},
+          "3": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-102"},
+          "4": {"subject": "Power Electronics", "teacher": "Dr. Ramesh Naidu", "room": "EE-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Electrical Machines Lab", "teacher": "Mr. Venkat Rao", "room": "EE-Lab"},
+          "7": {"subject": "Electrical Machines Lab", "teacher": "Mr. Venkat Rao", "room": "EE-Lab"}
+        },
+        "Wednesday": {
+          "1": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EE-102"},
+          "2": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-102"},
+          "3": {"subject": "FREE", "teacher": "-", "room": "-"},
+          "4": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Power Electronics Lab", "teacher": "Dr. Ramesh Naidu", "room": "EE-Lab"},
+          "7": {"subject": "Power Electronics Lab", "teacher": "Dr. Ramesh Naidu", "room": "EE-Lab"}
+        },
+        "Thursday": {
+          "1": {"subject": "Electrical Machines", "teacher": "Mr. Venkat Rao", "room": "EE-102"},
+          "2": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-102"},
+          "3": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-102"},
+          "4": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EE-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Measurement Lab", "teacher": "Mr. Venkat Rao", "room": "EE-Lab"},
+          "7": {"subject": "Measurement Lab", "teacher": "Mr. Venkat Rao", "room": "EE-Lab"}
+        },
+        "Friday": {
+          "1": {"subject": "Power Electronics", "teacher": "Dr. Ramesh Naidu", "room": "EE-102"},
+          "2": {"subject": "Electrical Machines", "teacher": "Mr. Venkat Rao", "room": "EE-102"},
+          "3": {"subject": "Measurement and Instrumentation", "teacher": "Mr. Venkat Rao", "room": "EE-102"},
+          "4": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-102"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Ms. Lakshmi Prasad", "room": "EE-102"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    },
+    "EEE-C": {
+      "class_incharge": "Mr. Venkat Rao",
+      "strength": 60,
+      "timetable": {
+        "Monday": {
+          "1": {"subject": "Electrical Machines", "teacher": "Mr. Venkat Rao", "room": "EE-103"},
+          "2": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EE-103"},
+          "3": {"subject": "Power Electronics", "teacher": "Dr. Ramesh Naidu", "room": "EE-103"},
+          "4": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Power Electronics Lab", "teacher": "Dr. Ramesh Naidu", "room": "EE-Lab"},
+          "7": {"subject": "Power Electronics Lab", "teacher": "Dr. Ramesh Naidu", "room": "EE-Lab"}
+        },
+        "Tuesday": {
+          "1": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-103"},
+          "2": {"subject": "Electrical Machines", "teacher": "Mr. Venkat Rao", "room": "EE-103"},
+          "3": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-103"},
+          "4": {"subject": "Measurement and Instrumentation", "teacher": "Mr. Venkat Rao", "room": "EE-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Control Lab", "teacher": "Ms. Lakshmi Prasad", "room": "EE-Lab"},
+          "7": {"subject": "Control Lab", "teacher": "Ms. Lakshmi Prasad", "room": "EE-Lab"}
+        },
+        "Wednesday": {
+          "1": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-103"},
+          "2": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-103"},
+          "3": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EE-103"},
+          "4": {"subject": "Electrical Machines", "teacher": "Mr. Venkat Rao", "room": "EE-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Measurement Lab", "teacher": "Mr. Venkat Rao", "room": "EE-Lab"},
+          "7": {"subject": "Measurement Lab", "teacher": "Mr. Venkat Rao", "room": "EE-Lab"}
+        },
+        "Thursday": {
+          "1": {"subject": "Power Electronics", "teacher": "Dr. Ramesh Naidu", "room": "EE-103"},
+          "2": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-103"},
+          "3": {"subject": "Measurement and Instrumentation", "teacher": "Mr. Venkat Rao", "room": "EE-103"},
+          "4": {"subject": "Maths", "teacher": "Mr. Suresh Babu", "room": "EE-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Electrical Machines Lab", "teacher": "Mr. Venkat Rao", "room": "EE-Lab"},
+          "7": {"subject": "Electrical Machines Lab", "teacher": "Mr. Venkat Rao", "room": "EE-Lab"}
+        },
+        "Friday": {
+          "1": {"subject": "Measurement and Instrumentation", "teacher": "Mr. Venkat Rao", "room": "EE-103"},
+          "2": {"subject": "Power Electronics", "teacher": "Dr. Ramesh Naidu", "room": "EE-103"},
+          "3": {"subject": "Control Systems", "teacher": "Ms. Lakshmi Prasad", "room": "EE-103"},
+          "4": {"subject": "Power Systems", "teacher": "Dr. Ramesh Naidu", "room": "EE-103"},
+          "5": {"subject": "LUNCH", "teacher": "-", "room": "-"},
+          "6": {"subject": "Tutorial / Seminar", "teacher": "Mr. Venkat Rao", "room": "EE-103"},
+          "7": {"subject": "Library Hour", "teacher": "-", "room": "Library"}
+        }
+      }
+    }
+  }
+}
